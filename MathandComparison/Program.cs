@@ -14,7 +14,7 @@ namespace MathandComparison
             int person1HoursWorks = Convert.ToInt32(Console.ReadLine());
             int person1paycheck = (person1Hourly * person1HoursWorks);
             Console.WriteLine("Person 1 paycheck:" + person1paycheck);
-            int Salary1 = (26);
+            int Salary1 = (52);
             int person1Salary = (person1paycheck * Salary1);
             Console.WriteLine("Person 1 Annual Salary " + person1Salary);
             Console.ReadLine();
@@ -26,7 +26,7 @@ namespace MathandComparison
             int person2HoursWorks = Convert.ToInt32(Console.ReadLine());
             int person2paycheck = (person2Hourly * person2HoursWorks);
             Console.WriteLine("Person 1 paycheck:" + person2paycheck);
-            int Salary2 = (26);
+            int Salary2 = (52);
             int person2Salary = (person2paycheck * Salary2);
             Console.WriteLine("Person 2 Annual Salary " + person2Salary);
             Console.ReadLine();
